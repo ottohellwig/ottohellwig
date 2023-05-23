@@ -30,4 +30,4 @@ QUT Computer Science Student
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/ottohellwig"><img src="https://github-readme-stats.vercel.app/api?username=ottohellwig&show_icons=true&hide=contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="ottohellwig's GitHub stats" /></a>
+<a href="http://www.github.com/ottohellwig"><img src="https://github-readme-stats.vercel.app/api?username=ottohellwig&show_icons=true&hide=contribs&count_private=true&title_color=ec4899&text_color=ffffff&icon_color=ec4899&bg_color=181824&hide_border=true&show_icons=true" alt="ottohellwig's GitHub stats" /></a>
