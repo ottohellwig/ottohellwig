@@ -2,20 +2,17 @@
 
 ### About Me
 
-* 👨‍💼 Vacationer at McGrathNicol
+Hey! I'm Otto Hellwig, an enthusiastic programmer with a keen interest in data science and microsimulation. I am studying a Bachelor of Information Technology (Computer Science) at the Queensland University of Technology. I am looking to leverage my experience in sales, hospitality and manufacturing to create interesting projects. I've got quite a bit to learn, and would love to get any feedback or advice!
+* 👨‍💼 Summer Vacationer 2023 (Cyber) at McGrathNicol.
 * 🧠 I'm currently learning C, Flask and SQLite!
 * 🖥️ See my portfolio [here](http://ottohellwig.github.io).
 
-### Technologies I've Used
+### Frequently Used Technologies
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Fortran](https://img.shields.io/badge/Fortran-%23734F96.svg?style=for-the-badge&logo=fortran&logoColor=white)
 
+### My GitHub Stats
 
-
-
-
-
+<a href="http://www.github.com/ottohellwig"><img src="https://github-readme-stats.vercel.app/api?username=ottohellwig&show_icons=true&hide=contribs&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=22272e&hide_border=true&show_icons=true" alt="ottohellwig's GitHub stats" /></a>
