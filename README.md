@@ -15,4 +15,4 @@ Hey! I'm Otto Hellwig, an enthusiastic programmer with a keen interest in data s
 
 ### My GitHub Stats
 
-<a href="http://www.github.com/ottohellwig"><img src="https://github-readme-stats.vercel.app/api?username=ottohellwig&show_icons=true&hide=contribs&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=22272e&hide_border=true&show_icons=true" alt="ottohellwig's GitHub stats" /></a>
+<a href="http://www.github.com/ottohellwig"><img src="https://github-readme-stats.vercel.app/api?username=ottohellwig&show_icons=true&hide=contribs&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=22272e&hide_border=true&show_icons=true" alt="ottohellwig's GitHub stats" /></a>
