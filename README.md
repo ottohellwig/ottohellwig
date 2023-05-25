@@ -18,6 +18,9 @@ Hey! I'm Otto Hellwig, an enthusiastic programmer with a keen interest in data s
 
 ### My GitHub Stats
 
-<a href="http://www.github.com/ottohellwig"><img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=ottohellwig&show_icons=true&hide=contribs&count_private=true&title_color=6366f1&text_color=6366f1&icon_color=ec4899&bg_color=ffffff&hide_border=true&show_icons=true" alt="ottohellwig's GitHub stats" /></a>
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=ottohellwig&show_icons=true&bg_color=45%2C592AFE%2CC649FF&icon_color=FFFFFF&border_color=FFFFFF&title_color=FFFFFF&text_color=FFFFFF" />
 
-<a href="http://www.github.com/ottohellwig"><img align="left" width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=ottohellwig&stroke=6366f1&background=ffffff&ring=6366f1&fire=6366f1&currStreakNum=6366f1&currStreakLabel=6366f1&sideNums=6366f1&sideLabels=6366f1&dates=6366f1&hide_border=true" /></a>
+<img align="left" width="47%" src="https://github-readme-streak-stats.herokuapp.com?user=ottohellwig&mode=weekly&border=EBEBEB&background=45%2C592AFE%2CC649FF&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" />
+
+
+
