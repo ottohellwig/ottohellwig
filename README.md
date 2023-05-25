@@ -39,16 +39,16 @@ Hey! I'm Otto Hellwig, an enthusiastic programmer with a keen interest in data s
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 </p>
 
+
+<h3 align="center">
+  Socials
+ </h3>
+
+<p align="center"> <a href="https://codesandbox.io/u/ottohellwig" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codesandbox-dark.svg" width="32" height="32" /></a> <a href="https://www.github.com/ottohellwig" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/ottohellwig" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/acuavd" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>
+
 ## My GitHub Stats
 
 <div align="center">
  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=ottohellwig&show_icons=true&bg_color=45%2C592AFE%2CC649FF&icon_color=FFFFFF&border_color=FFFFFF&title_color=FFFFFF&text_color=FFFFFF&card_width=500px" />
  <img width="47%" src="https://github-readme-streak-stats.herokuapp.com?user=ottohellwig&mode=weekly&border=EBEBEB&background=45%2C592AFE%2CC649FF&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&card_width=500" />
 </div>
-
-## Socials
-
-<p align="center"> <a href="https://codesandbox.io/u/ottohellwig" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codesandbox-dark.svg" width="32" height="32" /></a> <a href="https://www.github.com/ottohellwig" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/ottohellwig" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/acuavd" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>
-
-
-
