@@ -1,4 +1,4 @@
-![github-header-image (26)](https://github.com/ottohellwig/ottohellwig/assets/105997582/af3ea10b-ce84-44f8-8a65-63a2428857a3)
+![transparentbanner](https://github.com/ottohellwig/ottohellwig/assets/105997582/e31fab58-05e5-42a1-a523-f96384f1169f)
 
 ### About Me
 
@@ -6,6 +6,9 @@ Hey! I'm Otto Hellwig, an enthusiastic programmer with a keen interest in data s
 * 👨‍💼 Summer Vacationer 2023 (Cyber) at McGrathNicol.
 * 🧠 I'm currently learning C, Flask and SQLite!
 * 🖥️ See my portfolio [here](http://ottohellwig.github.io).
+
+### Technologies I've Used
+
 
 ### Frequently Used Technologies
 
@@ -15,4 +18,6 @@ Hey! I'm Otto Hellwig, an enthusiastic programmer with a keen interest in data s
 
 ### My GitHub Stats
 
-<a href="http://www.github.com/ottohellwig"><img src="https://github-readme-stats.vercel.app/api?username=ottohellwig&show_icons=true&hide=contribs&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=22272e&hide_border=true&show_icons=true" alt="ottohellwig's GitHub stats" /></a>
+<a href="http://www.github.com/ottohellwig"><img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=ottohellwig&show_icons=true&hide=contribs&count_private=true&title_color=6366f1&text_color=6366f1&icon_color=ec4899&bg_color=ffffff&hide_border=true&show_icons=true" alt="ottohellwig's GitHub stats" /></a>
+
+<a href="http://www.github.com/ottohellwig"><img align="left" width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=ottohellwig&stroke=6366f1&background=ffffff&ring=6366f1&fire=6366f1&currStreakNum=6366f1&currStreakLabel=6366f1&sideNums=6366f1&sideLabels=6366f1&dates=6366f1&hide_border=true" /></a>
