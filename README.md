@@ -1,6 +1,9 @@
+![download](https://github.com/ottohellwig/ottohellwig/assets/105997582/7919eae6-b9cf-4f48-ae80-16a47af00da5)
+
+
 ## About Me
 
-Hey! I'm Otto Hellwig, an enthusiastic programmer with a keen interest in data science and microsimulation. I am studying a Bachelor of Information Technology (Computer Science) at the Queensland University of Technology. I am looking to leverage my experience in sales, hospitality and manufacturing to create interesting projects. I've got quite a bit to learn, and would love to get any feedback or advice!
+I'm Otto Hellwig, an enthusiastic programmer with a keen interest in data science and microsimulation. I am studying a Bachelor of Information Technology (Computer Science) at the Queensland University of Technology. I am looking to leverage my experience in sales, hospitality and manufacturing to create interesting projects. I've got quite a bit to learn, and would love to get any feedback or advice!
 * 👨‍💼 Summer Vacationer 2023 (Cyber) at McGrathNicol.
 * 🧠 I'm currently learning C, Fortran, Flask and SQLite!
 * 🚀 I've been working on [my portfolio](http://ottohellwig.github.io).
