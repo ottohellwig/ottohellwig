@@ -1,12 +1,9 @@
-![download](https://github.com/ottohellwig/ottohellwig/assets/105997582/7919eae6-b9cf-4f48-ae80-16a47af00da5)
-
-
 ## About Me
 
+* 👨‍🎓 Studying Bachelor of IT, majoring in Computer Science at QUT.
 * 👨‍💼 Summer Vacationer 2023 (Cyber) at McGrathNicol.
-* 🧠 I'm currently learning C, Fortran, Flask and SQLite!
-* 🚀 I've been working on [my portfolio](http://ottohellwig.github.io).
-* 🤝 Keen to contribute or start any project.
+* 🤝 Keen to start or contribute to any project.
+* 🚀 You can see [my portfolio](http://ottohellwig.github.io) here.
 
 ## Technologies I Use
 
