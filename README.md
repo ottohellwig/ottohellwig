@@ -1,5 +1,3 @@
-![transparentbanner](https://github.com/ottohellwig/ottohellwig/assets/105997582/e31fab58-05e5-42a1-a523-f96384f1169f)
-
 ## About Me
 
 Hey! I'm Otto Hellwig, an enthusiastic programmer with a keen interest in data science and microsimulation. I am studying a Bachelor of Information Technology (Computer Science) at the Queensland University of Technology. I am looking to leverage my experience in sales, hospitality and manufacturing to create interesting projects. I've got quite a bit to learn, and would love to get any feedback or advice!
