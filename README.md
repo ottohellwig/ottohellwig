@@ -40,7 +40,9 @@
   Socials
  </h3>
 
-<p align="center"><a href="https://www.linkedin.com/in/ottohellwig" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/acuavd" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>
+<p align="center"><a href="https://www.linkedin.com/in/ottohellwig" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/acuavd" target="_blank" rel="noreferrer">
+<a href="https://discord.com/users/ACUAVD#4161" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> 
+</p>
 
 ## My GitHub Stats
 
