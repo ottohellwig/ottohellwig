@@ -2,4 +2,4 @@
 
 * 👨‍🎓 Studying a Bachelor of Information Technology majoring in Computer Science.
 * 👨‍💻 Summer Vacationer 2023 (Cyber) at McGrathNicol.
-* 🚀 You can see [my portfolio website](http://ottohellwig.github.io) here.
+* 🚀 Feel free to browse [my portfolio website](http://ottohellwig.github.io).
