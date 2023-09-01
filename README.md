@@ -1,4 +1,4 @@
-## Hi! 👋
+## About Me
 
 👨‍🎓 Studying Computer Science at the Queensland University of Technology.
 
