@@ -1,10 +1,1 @@
-## About Me
-
-👨‍🎓 Studying Computer Science at the Queensland University of Technology.
-
-👨‍💻 Summer Vacationer (Cyber) 2023-2024 at McGrathNicol.
-
-🚀 Feel free to browse my [portfolio website](https://ottohellwig.vercel.app) or [blog](https://ottohellwig.me).
-
-
-
+<img width="1834" alt="Make your README(1)" src="https://github.com/ottohellwig/ottohellwig/assets/105997582/08268933-84d1-415a-9d9f-6cdcab31bad9">
