@@ -1,6 +1,1 @@
-<center>
-  
-![pixel-art](https://github.com/ottohellwig/ottohellwig/assets/105997582/302ce3b1-18f7-4e22-92f6-143845d82031)
-
-</center>
-
+<img width="1834" alt="Make your README(1)" src="https://github.com/ottohellwig/ottohellwig/assets/105997582/08268933-84d1-415a-9d9f-6cdcab31bad9">
