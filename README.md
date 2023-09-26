@@ -1,1 +1,1 @@
-<img width="1834" alt="Make your README(1)" src="https://github.com/ottohellwig/ottohellwig/assets/105997582/08268933-84d1-415a-9d9f-6cdcab31bad9">
+![New Piskel](https://github.com/ottohellwig/ottohellwig/assets/105997582/0ae1ec02-0a7b-42e2-9717-30ed5fac26c7)
