@@ -1,1 +1,1 @@
-![New Piskel](https://github.com/ottohellwig/ottohellwig/assets/105997582/0ae1ec02-0a7b-42e2-9717-30ed5fac26c7)
+![pxArt](https://github.com/ottohellwig/ottohellwig/assets/105997582/5df52499-4bbb-484c-85ef-9005eb34b70b)
