@@ -1,1 +1,2 @@
-![Toto](https://github.com/ottohellwig/ottohellwig/assets/105997582/9f0bb29c-3a41-4f59-8207-50f3721c4626)
+![433406950014201](https://github.com/ottohellwig/ottohellwig/assets/105997582/66d6c39f-f140-4b07-b4f2-d82e77fd7934)
+
