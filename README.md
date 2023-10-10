@@ -2,7 +2,7 @@
 
 <h1 align="left">Hi, I'm Otto! 👋</h1>
 
-<p align="left">✨ I enjoy building web apps and tools in my free time.<br>📚 I'm currently studying Bach. IT (CS) at Queensland University of Technology.<br>🎲 Feel free to check out my blog or portfolio.</p>
+<p align="left">✨ I enjoy building web apps and tools in my free time.<br>📚 I'm an IT (CS) undergrad at Queensland University of Technology.<br>🎲 Feel free to check out my blog or portfolio.</p>
 
 ###
 
