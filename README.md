@@ -1,1 +1,1 @@
-![terminal(1)](https://github.com/ottohellwig/ottohellwig/assets/105997582/3fbd67b7-8e64-45e1-b598-0fa331a9d3c3)
+![App js](https://github.com/ottohellwig/ottohellwig/assets/105997582/10628145-91b8-46fe-9e10-261603ed5643)
