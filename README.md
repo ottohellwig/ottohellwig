@@ -1,4 +1,4 @@
-[<img align="right" src=https://github.com/ottohellwig/ottohellwig/assets/105997582/64b7fac9-6297-4c24-996f-6c79c78c65b4 width=300>](a)
+![mbt296685yi71](https://github.com/ottohellwig/ottohellwig/assets/105997582/a883c042-7c3f-45ec-8188-c8d96774a960)
 
 <h1>
 &nbsp; Hi, I'm Otto! 
