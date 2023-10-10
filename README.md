@@ -1,4 +1,4 @@
-<img align="right"  src="https://github.com/ottohellwig/ottohellwig/assets/105997582/6a0ddfc6-6c28-46f4-abd7-427d9cb063aa">
+<img align="right" width="400" src="https://github.com/ottohellwig/ottohellwig/assets/105997582/8500b01c-0f90-4325-9a8e-c590fd8abee5">
 
 <h1>
 &nbsp; Hi, I'm Otto! 
