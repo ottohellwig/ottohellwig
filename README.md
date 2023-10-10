@@ -1,4 +1,4 @@
-![mbt296685yi71](https://github.com/ottohellwig/ottohellwig/assets/105997582/a883c042-7c3f-45ec-8188-c8d96774a960)
+<img align="right"  src="https://github.com/ottohellwig/ottohellwig/assets/105997582/6a0ddfc6-6c28-46f4-abd7-427d9cb063aa">
 
 <h1>
 &nbsp; Hi, I'm Otto! 
