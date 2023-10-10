@@ -1,1 +1,1 @@
-![App js(1)](https://github.com/ottohellwig/ottohellwig/assets/105997582/f7012b21-a225-4d8e-bc08-78c6cdc64b04)
+![about-me txt(1)](https://github.com/ottohellwig/ottohellwig/assets/105997582/855e2916-ab22-499c-af72-9e5981eec553)
