@@ -1,6 +1,4 @@
-[<img align="right" src=https://github.com/ottohellwig/ottohellwig/assets/105997582/51808cd9-43d8-471e-8c80-bfadbf76333f width=300>](a)
-
-
+[<img align="right" src=https://github.com/ottohellwig/ottohellwig/assets/105997582/64b7fac9-6297-4c24-996f-6c79c78c65b4 width=300>](a)
 
 <h1>
 &nbsp; Hi, I'm Otto! 
