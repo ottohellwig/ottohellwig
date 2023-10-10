@@ -1,1 +1,2 @@
-![art-room](https://github.com/ottohellwig/ottohellwig/assets/105997582/e8f410cc-211a-4019-91b9-d5c62cb46606)
+
+![69778bfed51b67aecf94f10d979b2bdc](https://github.com/ottohellwig/ottohellwig/assets/105997582/ceee43b3-2497-4781-b04e-e6dbc4e4e5ba)
