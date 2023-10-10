@@ -1,14 +1,27 @@
 <img align="right" width="400" src="https://github.com/ottohellwig/ottohellwig/assets/105997582/8500b01c-0f90-4325-9a8e-c590fd8abee5">
 
-<h1>
-&nbsp; Hi, I'm Otto! 
-</h1>
+<h1 align="left">Hi, I'm Otto! 👋</h1>
 
-<p>
-&nbsp; &nbsp; I enjoy building web apps and tools in my free time. 
-  
-&nbsp;&nbsp; - I'm currently studying a Bachelor of Information Technology.
+<p align="left">✨ I enjoy building web apps and tools in my free time.<br>📚 I'm currently studying Bach. IT (CS) at Queensland University of Technology.<br>🎲 Feel free to check out my blog or portfolio.</p>
 
-&nbsp;&nbsp; - Feel free to browse my repositories or contact me!
-</p>
+###
 
+<h2 align="left">Technologies I Enjoy</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+</div>
