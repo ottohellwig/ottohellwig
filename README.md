@@ -1,3 +1,2 @@
-I enjoy building web applications and tools in my free time.
+![9dea6422afee150cbe2f65b5317285eb](https://github.com/ottohellwig/ottohellwig/assets/105997582/67f97026-91b2-482b-b86d-f1ef0f80159f)
 
-![New Piskel](https://github.com/ottohellwig/ottohellwig/assets/105997582/f540df39-1605-4f2a-88f5-47f1d62cfaa6)
