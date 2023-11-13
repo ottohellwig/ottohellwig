@@ -1,3 +1,1 @@
-## Hey, I'm Otto!
-
 📚 I'm a computer science undergrad at QUT. <br> ✨ Happy to collab on projects, shoot DM. <br> 📑 Feel free to check out my [portfolio](https://ottohellwig.vercel.app/) or [blog](https://ottohellwig.me/).
